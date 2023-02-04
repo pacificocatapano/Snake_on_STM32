@@ -1,0 +1,6 @@
+../Core/Src/punto.c:23:7:pun_gen	24	static
+../Core/Src/punto.c:41:6:pun_cmp	16	static
+../Core/Src/punto.c:47:6:pun_cmp_2	16	static
+../Core/Src/punto.c:53:9:somma_uint_to_int_8	16	static
+../Core/Src/punto.c:61:6:spostamento_offset	40	static
+../Core/Src/punto.c:143:6:spostamento_singolo	32	static
